@@ -8,7 +8,7 @@ This project implements an imbalance-aware machine learning framework for multic
 - Pre-Diabetic
 - Diabetic
 
-The implementation follows the methodology presented in the paper:
+The implementation follows the methodology presented in our paper:
 
 > **Imbalance-Aware ML for Multiclass Classification of Diabetes Data**
 
